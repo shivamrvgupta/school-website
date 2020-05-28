@@ -109,3 +109,8 @@ nav{
 
     text-align: right;
 }
+.successive{
+    text-align: center;
+    font-size: larger;
+    font-weight: 400;
+}
